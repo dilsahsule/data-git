@@ -1,6 +1,4 @@
-'''
-This is the module docstring
-'''
-
-
-pass  # YOUR CODE HERE
+""" Git komutları dilsahsule"""
+def my_name_is():
+    """github kullanıcı adı"""
+    return "dilsahsule"
